@@ -1,5 +1,5 @@
-*This repository is for students on Chromebooks to link escape from regular web based apps.*
-**NOTE**:
+*This repository is for students on Chromebooks to link escape from regular web based apps.*\
+**NOTE**:\
 It is known that direct links to websites such as Instagram and TikTok will crash the app and make you restart the process.
 
 ## Step-by-Step
@@ -20,5 +20,5 @@ Files will not be accessible through the Student Square browser, no uploads nor 
 
 ## FAQ:
 
-**"Student Square keeps taking me back when I click the GitHub sign-in option, how do I fix this?"**
+**"Student Square keeps taking me back when I click the GitHub sign-in option, how do I fix this?"**\
 Shut down your Chromebook, then start the process again.
