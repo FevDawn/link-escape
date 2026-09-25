@@ -22,4 +22,4 @@ Files will not be accessible through the Student Square browser, no uploads nor 
 ## FAQ:
 
 **"Student Square keeps taking me back when I click the GitHub sign-in option, how do I fix this?"**\
-  Shut down your Chromebook, then start the process again.
+    Shut down your Chromebook, then start the process again.
