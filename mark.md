@@ -1,3 +1,3 @@
-[Google](https://Google.com)
-[Instagram](https://Instagram.com/)
+[Google](https://Google.com) /n
+[Instagram](https://Instagram.com/) /n
 [YouTube](https://YouTube.com/)
